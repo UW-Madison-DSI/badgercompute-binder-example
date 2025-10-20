@@ -7,4 +7,5 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
+python = ">=3.12.12,<3.13"
 seaborn = ">=0.13.2,<0.14"
